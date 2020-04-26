@@ -14,11 +14,11 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!--COMPLETED (1) Change the ConstraintLayout to a LinearLayout-->
-<!--COMPLETED (2) Make the orientation vertical-->
-<!--COMPLETED (3) Give left, right, and top padding of 16dp-->
-<!--COMPLETED (4) Remove the line that declares the id, we don't need it-->
-<!--COMPLETED (5) Remove the xmlns:app declaration, we don't need that anymore-->
+<!--COMPLETED TODO (1) Change the ConstraintLayout to a LinearLayout-->
+<!--COMPLETED TODO (2) Make the orientation vertical-->
+<!--COMPLETED TODO (3) Give left, right, and top padding of 16dp-->
+<!--COMPLETED TODO (4) Remove the line that declares the id, we don't need it-->
+<!--COMPLETED TODO (5) Remove the xmlns:app declaration, we don't need that anymore-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
